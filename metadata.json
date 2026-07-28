@@ -1,0 +1,6 @@
+{
+  "name": "Iron & Fade Barbershop",
+  "description": "Barbería Urbana de Alto Nivel especializada en cortes clásicos, degradados modernos y grooming masculino.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
