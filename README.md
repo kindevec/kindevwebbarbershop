@@ -1,20 +1,22 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# kindevwebbarbershop
 
-# Run and deploy your AI Studio app
+Este es el repositorio oficial para el proyecto web **kindevwebbarbershop**.
 
-This contains everything you need to run your app locally.
+## Desarrollo Local
 
-View your app in AI Studio: https://ai.studio/apps/d9264695-d2b0-422a-b39d-260945c793b0
+Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
-## Run Locally
+1. Instala las dependencias:
+   ```bash
+   npm install
+   ```
 
-**Prerequisites:**  Node.js
+2. Inicia el servidor de desarrollo:
+   ```bash
+   npm run dev
+   ```
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+3. Construye el proyecto para producción:
+   ```bash
+   npm run build
+   ```
